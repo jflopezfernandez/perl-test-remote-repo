@@ -1,0 +1,13 @@
+
+# Directories
+/.idea/
+
+# Binary Files
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+*.lib
+*.a
+
